@@ -45,6 +45,12 @@ https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="",Sony ETV
 http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/300px-Zee_Cinema_New_Logo.png" group-title="",Zee Cinema
+http://161.0.157.9/PLTV/88888888/224/3221226709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZEE WORLD
+http://161.0.157.5/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZEECINEMA
+http://161.0.157.5/PLTV/88888888/224/3221226709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",AND TV HD [720p]
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD1
