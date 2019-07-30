@@ -5,12 +5,18 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Gujarati",VTV News
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/index.m3u8
 
+#EXTINF:0, group-title="Hindi",Sony TV HD
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/index.m3u8
 #EXTINF:0, group-title="Hindi",Zee TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:0, group-title="Hindi",Star TV UK
+http://216.144.250.174/Star_Plus_HD/track-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:0, group-title="Hindi",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0, group-title="Hindi",9X Jalwa
@@ -21,8 +27,6 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:0, group-title="Hindi",DD Bharti
 http://mhms9.airtel.tv/wh7f454c46tw3476111952_616192817/PLTV/88888888/224/3221226291/index.m3u8
-#EXTINF:0, group-title="Hindi",Discovery
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
 #EXTINF:0, group-title="Hindi",E24
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:0, group-title="Hindi",Sony BBC Earth
@@ -52,13 +56,25 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:0, group-title="Hindi",Tez
 http://cshms4.airtel.tv/wh7f454c46tw121105778_1046447927/PLTV/88888888/224/3221226432/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0, group-title="English",Republic TV
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/index.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TIMES NOW
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
+#EXTINF:0, group-title="English",AXN
+http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
 #EXTINF:0, group-title="English",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/index.m3u8
 #EXTINF:0, group-title="Hindi",Animal Planet
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:0, group-title="English",AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:0, group-title="Hindi",Discovery
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:0, group-title="English",Discovery Science
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
 #EXTINF:0, group-title="English",Travel XP
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/index.m3u8
 #EXTINF:0, group-title="English",NDTV Good Times
@@ -66,10 +82,49 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #EXTINF:0, group-title="Hindi",TLC
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
 
-#EXTINF:0, group-title="English",Republic TV
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/index.m3u8
-#EXTINF:0, group-title="English",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Kids
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cartoon Network (5025164)
+https://api.vpnmate.com/play/?vlc=1&channel=5025164&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Channel (5025023)
+https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Junior (5025272)
+https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney XD (5012865)
+https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO Comedy (East) (1018357)
+https://api.vpnmate.com/play/?vlc=1&channel=1018357&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO Family (East) (1018356)
+https://api.vpnmate.com/play/?vlc=1&channel=1018356&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO Signature (East) (1018355)
+https://api.vpnmate.com/play/?vlc=1&channel=1018355&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO Zone (East) US (1018354)
+https://api.vpnmate.com/play/?vlc=1&channel=1018354&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO Zone (East) US (204614)
+https://api.vpnmate.com/play/?vlc=1&channel=204614&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Unsorted;Movies",HBO Zone
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Unsorted",HBO 2 (Public-Plex-Share) (US) (English)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (5025174)
+https://api.vpnmate.com/play/?vlc=1&channel=5025174&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (east) US (3005866)
+https://api.vpnmate.com/play/?vlc=1&channel=3005866&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west) US (3005864)
+https://api.vpnmate.com/play/?vlc=1&channel=3005864&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime 2 (east) US (1018262)
+https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Beyond US (1102879)
+https://api.vpnmate.com/play/?vlc=1&channel=1102879&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Extreme (1018260)
+https://api.vpnmate.com/play/?vlc=1&channel=1018260&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Showcase US (1018258)
+https://api.vpnmate.com/play/?vlc=1&channel=1018258&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Woman US (1102881)
+https://api.vpnmate.com/play/?vlc=1&channel=1102881&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
 #EXTINF:0, group-title="English",Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
